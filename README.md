@@ -27,6 +27,18 @@ A cinematic container-home showroom connected to an employee sales workspace. Th
 
 [Read the case study →](https://github.com/cojovi/cmac-cinematic#readme) · [Visit the showroom ↗](https://cmac-cinematic.vercel.app)
 
+<a href="https://github.com/cojovi/war-room-os-showcase#readme"><img src="assets/warroom-feature.svg" alt="War Room OS — AI agent orchestration with an evidence trail. Explore the engineering and interactive replay." width="100%"></a>
+
+### War Room OS
+
+A control room for AI agents, built around task criteria, execution attempts, artifacts, and recovery. The public showcase includes selected source, fictional fixtures, and a runnable demonstration.
+
+**Explore:** PostgreSQL task claims · evidence requirements · atomic replay records · heartbeat recovery · a six-scenario interactive replay.
+
+`Next.js` · `Hono / tRPC` · `PostgreSQL` · `Python`
+
+[Read the engineering case study →](https://github.com/cojovi/war-room-os-showcase#readme) · [Explore the recorded replay ↗](https://cojovi.github.io/war-room-os-showcase/demo/)
+
 ### More from the workshop
 
 <table>
