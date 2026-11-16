@@ -50,6 +50,14 @@ A control room for AI agents, built around task criteria, execution attempts, ar
     <td><strong><a href="https://github.com/cojovi/operation_killswitch">Operation Killswitch</a></strong><br>Check-ins, deadlines, encrypted files, and scheduled release. An exploration of backend workflow and state.<br><br><code>React</code> <code>TypeScript</code> <code>Supabase</code></td>
     <td><strong><a href="https://github.com/cojovi/Cojovi_Protocol_0X17">Protocol 0X17</a></strong><br>A cinematic frontend experiment with scroll-driven image sequences, canvas rendering, and responsive composition.<br><br><code>Next.js</code> <code>React</code> <code>Canvas</code></td>
   </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/cojovi/hacker-simulator-showcase#readme"><img src="https://raw.githubusercontent.com/cojovi/hacker-simulator-showcase/main/readme-assets/cover-still.svg" alt="Hacker Simulator — native Swift cinematic scene engine" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/cojovi/projectsentinal#readme"><img src="https://raw.githubusercontent.com/cojovi/projectsentinal/main/readme-assets/cover-still.svg" alt="Protocol Sentinel — AI-assisted publishing and article tools" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/cojovi/hacker-simulator-showcase#readme">Hacker Simulator</a></strong><br>A fictional terminal performance with a typed scene contract, shared Apple-platform playback, and 28 runnable core tests.<br><br><code>Swift</code> <code>SwiftUI</code> <code>Structured AI output</code></td>
+    <td><strong><a href="https://github.com/cojovi/projectsentinal#readme">Protocol Sentinel</a></strong><br>AI-assisted article and image tooling connected to an inspectable Markdown publishing workflow and a live publication.<br><br><code>Python</code> <code>AI integration</code> <code>Hexo</code></td>
+  </tr>
 </table>
 
 Also building for my own workflow: **[ReelVault](https://github.com/cojovi/cojo_social_media_dashboard)**, a local video archive and caption workbench with optional AI assistance.
