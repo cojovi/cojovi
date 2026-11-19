@@ -69,6 +69,21 @@ A control room for AI agents, built around task criteria, execution attempts, ar
 </table>
 
 <picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/cojovi/killer-kinfolk-showcase/main/assets/arcade-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cojovi/killer-kinfolk-showcase/main/assets/arcade.svg" alt="The Arcade — select a game, enter the world. Featuring Killer Kinfolk." width="100%">
+</picture>
+
+### The Arcade
+
+**PLAYER 01 / KILLER KINFOLK** — A 16-bit-inspired fighting game where family and friends step into the arena. Built in Godot with a nine-fighter roster, a fixed-step combat simulation, and a whole lot of arcade attitude.
+
+<a href="https://cojovi.github.io/killer-kinfolk-showcase/#trailer"><img src="https://raw.githubusercontent.com/cojovi/killer-kinfolk-showcase/main/assets/poster.png" alt="Killer Kinfolk: Battle Havoc in Haslet — select to watch the gameplay trailer." width="100%"></a>
+
+`Godot 4` · `GDScript` · `2D fighting game` · `In development`
+
+[▶ Watch the gameplay trailer](https://cojovi.github.io/killer-kinfolk-showcase/#trailer) · [Explore the arcade ↗](https://cojovi.github.io/killer-kinfolk-showcase/) · [Read the case study →](https://github.com/cojovi/killer-kinfolk-showcase#readme)
+
+<picture>
   <source media="(max-width: 640px)" srcset="assets/disciplines-mobile.svg">
   <img src="assets/disciplines.svg" alt="How I build: AI integrations and agent workflows; React, TypeScript, APIs and data models; visual storytelling and cinematic interfaces." width="100%">
 </picture>
