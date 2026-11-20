@@ -39,44 +39,44 @@ A control room for AI agents, built around task criteria, execution attempts, ar
 
 [Read the engineering case study →](https://github.com/cojovi/war-room-os-showcase#readme) · [Explore the recorded replay ↗](https://cojovi.github.io/war-room-os-showcase/demo/)
 
-<a href="https://github.com/cojovi/Strictly_Woofs#readme"><img src="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover.svg" alt="Strictly Woofs — the barket is booming. A subscription-platform parody with paws." width="100%"></a>
+<a href="https://github.com/cojovi/operation_killswitch#readme"><img src="https://raw.githubusercontent.com/cojovi/operation_killswitch/main/readme-assets/cover-still.svg" alt="Operation Kill Switch — timed release, encrypted payloads, explicit control." width="100%"></a>
 
-### Strictly Woofs
+### Operation Kill Switch
 
-The creator economy has gone to the dogs. A satirical platform starring fictional canine influencers, fake subscriptions, and enough treat-fueled drama to require a PR team.
+A timed file-handover system built around a simple question: what happens when someone stops checking in? Operators configure recipients, encrypt files, and arm a deadline; a scheduled backend worker attempts delivery when it expires.
 
-**Explore:** reusable creator profiles · interactive demo state · optional AI-generated replies · Redis-backed presence and scheduling.
+**Explore:** authenticated and approved access · server-side AES-GCM file encryption · database-backed rate limits · scheduled reminders and release · documented failure and reliability tradeoffs.
 
-`Next.js` · `React` · `TypeScript` · `AI integration`
+`React` · `TypeScript` · `Supabase` · `PostgreSQL`
 
-[Meet the pack ↗](https://strictly-woofs-com-1kjh.vercel.app/) · [Read the case study →](https://github.com/cojovi/Strictly_Woofs#readme)
+[Read the engineering case study →](https://github.com/cojovi/operation_killswitch#readme) · [Preview the console →](https://github.com/cojovi/operation_killswitch#preview-the-console)
 
 ### More from the workshop
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/cojovi/operation_killswitch"><img src="assets/killswitch.svg" alt="Operation Killswitch — backend and automation" width="100%"></a></td>
     <td width="50%"><a href="https://github.com/cojovi/Cojovi_Protocol_0X17"><img src="https://raw.githubusercontent.com/cojovi/Cojovi_Protocol_0X17/main/readme-assets/showcase.svg" alt="Protocol 0X17 — experimental interface" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/cojovi/operation_killswitch">Operation Killswitch</a></strong><br>Check-ins, deadlines, encrypted files, and scheduled release. An exploration of backend workflow and state.<br><br><code>React</code> <code>TypeScript</code> <code>Supabase</code></td>
-    <td><strong><a href="https://github.com/cojovi/Cojovi_Protocol_0X17">Protocol 0X17</a></strong><br>A cinematic frontend experiment with scroll-driven image sequences, canvas rendering, and responsive composition.<br><br><code>Next.js</code> <code>React</code> <code>Canvas</code></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/cojovi/hacker-simulator-showcase#readme"><img src="https://raw.githubusercontent.com/cojovi/hacker-simulator-showcase/main/readme-assets/cover-still.svg" alt="Hacker Simulator — native Swift cinematic scene engine" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/cojovi/projectsentinal#readme"><img src="https://raw.githubusercontent.com/cojovi/projectsentinal/main/readme-assets/cover-still.svg" alt="Protocol Sentinel — AI-assisted publishing and article tools" width="100%"></a></td>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/cojovi/Cojovi_Protocol_0X17">Protocol 0X17</a></strong><br>A cinematic frontend experiment with scroll-driven image sequences, canvas rendering, and responsive composition.<br><br><code>Next.js</code> <code>React</code> <code>Canvas</code></td>
     <td><strong><a href="https://github.com/cojovi/hacker-simulator-showcase#readme">Hacker Simulator</a></strong><br>A fictional terminal performance with a typed scene contract, shared Apple-platform playback, and 28 runnable core tests.<br><br><code>Swift</code> <code>SwiftUI</code> <code>Structured AI output</code></td>
-    <td><strong><a href="https://github.com/cojovi/projectsentinal#readme">Protocol Sentinel</a></strong><br>AI-assisted article and image tooling connected to an inspectable Markdown publishing workflow and a live publication.<br><br><code>Python</code> <code>AI integration</code> <code>Hexo</code></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/cojovi/projectsentinal#readme"><img src="https://raw.githubusercontent.com/cojovi/projectsentinal/main/readme-assets/cover-still.svg" alt="Protocol Sentinel — AI-assisted publishing and article tools" width="100%"></a></td>
     <td width="50%"><a href="https://github.com/cojovi/cojo_social_media_dashboard#readme"><img src="https://raw.githubusercontent.com/cojovi/cojo_social_media_dashboard/main/readme-assets/showcase.svg" alt="ReelVault — local video archive and caption workbench" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/cojovi/construction_to_digital#readme"><img src="https://raw.githubusercontent.com/cojovi/construction_to_digital/main/readme-assets/showcase.svg" alt="Construction to Digital — construction software marketing experience" width="100%"></a></td>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/cojovi/projectsentinal#readme">Protocol Sentinel</a></strong><br>AI-assisted article and image tooling connected to an inspectable Markdown publishing workflow and a live publication.<br><br><code>Python</code> <code>AI integration</code> <code>Hexo</code></td>
     <td><strong><a href="https://github.com/cojovi/cojo_social_media_dashboard#readme">ReelVault</a></strong><br>A local video archive and caption workbench with optional AI assistance and a human-approved content queue.<br><br><code>React</code> <code>FastAPI</code> <code>SQLite</code></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/cojovi/construction_to_digital#readme"><img src="https://raw.githubusercontent.com/cojovi/construction_to_digital/main/readme-assets/showcase.svg" alt="Construction to Digital — construction software marketing experience" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/cojovi/Strictly_Woofs#readme"><img src="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover.svg" alt="Strictly Woofs — the barket is booming. A subscription-platform parody with paws." width="100%"></a></td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/cojovi/construction_to_digital#readme">Construction to Digital</a></strong><br>A cinematic construction software marketing site with a shared solution catalog and machine-readable content.<br><br><code>Next.js</code> <code>TypeScript</code> <code>Motion</code></td>
+    <td><strong><a href="https://github.com/cojovi/Strictly_Woofs#readme">Strictly Woofs</a></strong><br>The creator economy has gone to the dogs. A satirical platform with fictional canine influencers, fake subscriptions, and optional AI replies.<br><br><code>Next.js</code> <code>React</code> <code>AI integration</code></td>
   </tr>
 </table>
 
