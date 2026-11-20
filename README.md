@@ -39,10 +39,7 @@ A control room for AI agents, built around task criteria, execution attempts, ar
 
 [Read the engineering case study →](https://github.com/cojovi/war-room-os-showcase#readme) · [Explore the recorded replay ↗](https://cojovi.github.io/war-room-os-showcase/demo/)
 
-<a href="https://github.com/cojovi/Strictly_Woofs#readme"><picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover-mobile.svg">
-  <img src="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover.svg" alt="Strictly Woofs — the barket is booming. A subscription-platform parody with paws." width="100%">
-</picture></a>
+<a href="https://github.com/cojovi/Strictly_Woofs#readme"><img src="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover.svg" alt="Strictly Woofs — the barket is booming. A subscription-platform parody with paws." width="100%"></a>
 
 ### Strictly Woofs
 
