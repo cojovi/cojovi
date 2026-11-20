@@ -39,6 +39,21 @@ A control room for AI agents, built around task criteria, execution attempts, ar
 
 [Read the engineering case study →](https://github.com/cojovi/war-room-os-showcase#readme) · [Explore the recorded replay ↗](https://cojovi.github.io/war-room-os-showcase/demo/)
 
+<a href="https://github.com/cojovi/Strictly_Woofs#readme"><picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover-mobile.svg">
+  <img src="https://raw.githubusercontent.com/cojovi/Strictly_Woofs/main/readme-assets/showcase-cover.svg" alt="Strictly Woofs — the barket is booming. A subscription-platform parody with paws." width="100%">
+</picture></a>
+
+### Strictly Woofs
+
+The creator economy has gone to the dogs. A satirical platform starring fictional canine influencers, fake subscriptions, and enough treat-fueled drama to require a PR team.
+
+**Explore:** reusable creator profiles · interactive demo state · optional AI-generated replies · Redis-backed presence and scheduling.
+
+`Next.js` · `React` · `TypeScript` · `AI integration`
+
+[Meet the pack ↗](https://strictly-woofs-com-1kjh.vercel.app/) · [Read the case study →](https://github.com/cojovi/Strictly_Woofs#readme)
+
 ### More from the workshop
 
 <table>
